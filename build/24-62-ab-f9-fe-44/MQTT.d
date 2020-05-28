@@ -1,0 +1,22 @@
+C:\Users\OMSIN\AppData\Local\Programs\kbide\boards\ESP32-MINI-32-V1.3\build\24-62-ab-f9-fe-44\MQTT.o: \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\MQTT.cpp \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\MQTT.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/stdint.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/machine/_default_types.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/sys/features.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/sys/_intsup.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/pgmspace.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Client.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Print.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/WString.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/stdlib.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/machine/stdlib.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/alloca.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/string.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/sys/string.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Printable.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Stream.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/inttypes.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/IPAddress.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/WString.h \
+ C:\Users\OMSIN\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Printable.h
