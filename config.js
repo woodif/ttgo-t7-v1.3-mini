@@ -3,11 +3,11 @@ module.exports = {
   vendor: "TTGO",
   platform: "arduino-esp32",
   title: "TTGO T7 V1.3 (mini)",
-  description: "TTGO T7 ESP32, 4 MB Flash, 4 MB PS-RAM, 3D Antenna, SD Card Slot, Li-Po Charger",
+  description: "TTGO T7 ESP32, 4 MB Flash, 4 MB PS-RAM, 3D Antenna, Li-Po Charger",
   author: "Maker Asia",
   website: "",
   email: "makerasia@gmail.com",
-  git: "https://github.com/cmmakerclub/...../",
+  git: "https://github.com/woodif/ttgo-t7-v1.3-mini",
   image: "/static/display.jpg",
   version: "1.0.0",
 };
