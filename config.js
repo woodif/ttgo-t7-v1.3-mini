@@ -7,7 +7,7 @@ module.exports = {
   author: "Maker Asia",
   website: "",
   email: "makerasia@gmail.com",
-  git: "https://github.com/woodif/ttgo-t7-v1.3-mini",
+  git: "https://github.com/woodif/ttgo-t7-v1.3-mini/",
   image: "/static/display.jpg",
   version: "1.0.0",
 };
